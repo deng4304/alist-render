@@ -1,7 +1,7 @@
 services:
   # A Docker web service
   - type: web
-    name: alist
+    name: dzhabc01
     env: docker
     repo: https://github.com/deng4304/alist001.git # optional
     region: oregon # optional (defaults to oregon)
